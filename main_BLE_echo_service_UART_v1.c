@@ -9,6 +9,8 @@
  *  This file is an adaptation of a Nordic SDK example thats simplify a bridge between N52840 BLE chip and Serial UART connection.
  *  Also, we adapt the code to implement an echo service which in the next commits will resolve a cryptographic challenge.
  *
+ *  Only three lines was added to the project. You can find them by searching 'Echo service'. Concretly lines from 182 to 188.
+ *
  */
 
 
